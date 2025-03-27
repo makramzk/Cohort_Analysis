@@ -36,7 +36,7 @@ How long does it take for customers to make their second purchase, and how does 
 
 ### Results & Insights
 📊 This project provides data-driven insights into customer retention trends:
-✅ Retenction Rate by Cohort.Click [here](https://github.com/makramzk/Cohort_Analysis/blob/main/2.%20Repeat%20Purchase%20Rate%20by%20Cohort.png) 
-✅ HRepeat Purchase Rate by Cohort. Click [here](https://github.com/makramzk/Cohort_Analysis/blob/main/1.%20Retention%20Rate%20by%20Cohort.png)
+✅ Retenction Rate by Cohort.Click [here](https://github.com/makramzk/Cohort_Analysis/blob/main/1.%20Retention%20Rate%20by%20Cohort.png) 
+✅ HRepeat Purchase Rate by Cohort. Click [here](https://github.com/makramzk/Cohort_Analysis/blob/main/2.%20Repeat%20Purchase%20Rate%20by%20Cohort.png)
 ✅ Cohort Size by Month.Click [here](https://github.com/makramzk/Cohort_Analysis/blob/main/3.%20Cohort%20Size%20by%20Month.png)
 
