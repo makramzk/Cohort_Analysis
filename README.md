@@ -22,7 +22,7 @@ How long does it take for customers to make their second purchase, and how does 
 
 2️⃣ Data Transformation using Databricks
 🔹 Transform raw sales data into a cohort analysis-optimized model.
-🔹 Use SQL (CTEs & subqueries) to compute each customer’s first and second purchase dates.
+🔹 Use SQL (CTEs & subqueries) to compute each customer’s first and second purchase dates.Click [here](https://github.com/makramzk/Cohort_Analysis/blob/main/SQL_Coding.sql)
 
 3️⃣ Cohort Analysis & Visualization
 🔹 Build visual dashboards in Databricks to explore trends.
